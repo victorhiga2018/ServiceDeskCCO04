@@ -1,10 +1,12 @@
-package br.usjt.desvweb.servicedeskcco;
+package br.usjt.desvweb.servicedeskcco.controller;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
+
+import br.usjt.desvweb.servicedeskcco.R;
 
 public class MainActivity extends Activity {
     public static final String FILA = "br.usjt.desvweb.servicedeskcco";
